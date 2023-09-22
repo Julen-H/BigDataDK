@@ -1,2 +1,2 @@
 # BigDataDK
-A repository for the Big Data course is Aarhus Tech, Denmark
+A repository for the Big Data course in Aarhus Tech, Denmark
